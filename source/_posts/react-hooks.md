@@ -1,6 +1,6 @@
 ---
 title: React Hooks
-toc: 2
+toc: true
 date: 2023-03-16 16:45:17
 tags:
 ---
