@@ -24,7 +24,7 @@ Node.js 本身的核心模块包括文件系统I/O、网络（HTTP、TCP、UDP�
 
 Node.js 的最大特点在于它基于高性能的 Chrome V8 引擎，提供了一个单线程 NIO (非阻塞队列) 的事件驱动模型。这使它极其高效和轻量级。
 
-![](/images/node/nodejs-nio.webp)
+![](/img/node/nodejs-nio.webp)
 
 如上图所示，Node.js 的核心是一个事件驱动的单线程非阻塞 Event Loop 用来处理所有的请求（由于是单线程，所以不需要锁，避免了多线程带来的复杂性和开销），这样的设计让 Node.js 非常擅于 IO 密集型的应用，能够充分用效的利用硬件资源，从而提供更高的并发性能。
 
@@ -35,9 +35,9 @@ Node.js 的最大特点在于它基于高性能的 Chrome V8 引擎，提供了�
 传统 Spring Boot 和 Node.js 的性能对比。
 **需要说明的是这并不是一个严谨的比较，因为基于 Java 语言也有很多优秀的 NIO 模型框架，比如 Netty、以及基于 Netty 的 spring5-webflux，其提供了恐怖的并发性能。所以这个比较只是一个示例，用于说明 Node.js 在特定场景下的的优势，仅供参考。勿喷。**
 
-![](/images/node/performance.requests.webp)
-![](/images/node/performance.cpu.webp)
-![](/images/node/performance.memory.webp)
+![](/img/node/performance.requests.webp)
+![](/img/node/performance.cpu.webp)
+![](/img/node/performance.memory.webp)
 
 ## Node.js 的适用场景
 
