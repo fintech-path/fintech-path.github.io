@@ -3,14 +3,14 @@
   <title>捷径</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://fintech-path.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://fintech-path.github.io/"/>
   <updated>2023-04-26T01:43:40.993Z</updated>
-  <id>http://example.com/</id>
+  <id>http://fintech-path.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Fintech Path</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>欢迎</title>
-    <link href="http://example.com/2023/04/26/welcome/"/>
-    <id>http://example.com/2023/04/26/welcome/</id>
+    <link href="http://fintech-path.github.io/2023/04/26/welcome/"/>
+    <id>http://fintech-path.github.io/2023/04/26/welcome/</id>
     <published>2023-04-26T01:43:00.000Z</published>
     <updated>2023-04-26T01:43:40.993Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>React Hooks</title>
-    <link href="http://example.com/2023/03/16/react-hooks/"/>
-    <id>http://example.com/2023/03/16/react-hooks/</id>
+    <link href="http://fintech-path.github.io/2023/03/16/react-hooks/"/>
+    <id>http://fintech-path.github.io/2023/03/16/react-hooks/</id>
     <published>2023-03-16T08:45:17.000Z</published>
     <updated>2023-06-29T06:40:09.579Z</updated>
     
@@ -65,8 +65,8 @@
   
   <entry>
     <title>前端自动化测试的挑战和应对</title>
-    <link href="http://example.com/2023/03/16/fe-auto-testing/"/>
-    <id>http://example.com/2023/03/16/fe-auto-testing/</id>
+    <link href="http://fintech-path.github.io/2023/03/16/fe-auto-testing/"/>
+    <id>http://fintech-path.github.io/2023/03/16/fe-auto-testing/</id>
     <published>2023-03-16T06:48:17.000Z</published>
     <updated>2023-06-29T06:40:47.915Z</updated>
     
@@ -90,8 +90,8 @@
   
   <entry>
     <title>Node.js 浅析</title>
-    <link href="http://example.com/2023/03/10/nodejs-brief/"/>
-    <id>http://example.com/2023/03/10/nodejs-brief/</id>
+    <link href="http://fintech-path.github.io/2023/03/10/nodejs-brief/"/>
+    <id>http://fintech-path.github.io/2023/03/10/nodejs-brief/</id>
     <published>2023-03-10T06:48:17.000Z</published>
     <updated>2023-06-29T06:24:20.418Z</updated>
     
