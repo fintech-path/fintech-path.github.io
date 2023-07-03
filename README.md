@@ -1,4 +1,4 @@
-# top-lean-sword.github.io
+# fintech-path.github.io
 
 ## hexo
 
@@ -52,6 +52,6 @@ tags: tag1,tag2
 ```
 
 - 然后运行上面提到的“构建”和“发布”步骤
-- 打开 blog 网址查看结果。临时网址是：<https://top-lean-sword.github.io/>
+- 打开 blog 网址查看结果。临时网址是：<https://fintech-path.github.io/>
 
 总结： 在 source/_post 目录下编写 md -> 构建 -> git commit & push
