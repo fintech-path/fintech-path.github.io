@@ -1,8 +1,12 @@
 ---
 title: React Hooks
-toc: true
 date: 2023-03-16 16:45:17
-tags:
+toc: true
+tags: 
+    - react.js
+    - 前端
+categories:
+    - 前端
 ---
 
 Reactjs是一个用于构建用户界面的JavaScript库，它提供了一种称为Hooks的特性，让你可以在函数组件中使用状态和其他React特性，而不需要写类组件。

@@ -15,6 +15,9 @@
 # 全局安装 pnpm
 npm install -g pnpm
 
+# 全局安装 hexo cli
+pnpm install -g hexo-cli
+
 # 安装依赖
 pnpm install
 ```

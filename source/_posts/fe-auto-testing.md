@@ -2,7 +2,10 @@
 title: 前端自动化测试的挑战和应对
 date: 2023-03-16 14:48:17
 toc: true
-tags:
+tags: 
+    - 测试
+categories:
+    - 测试
 ---
 
 <!-- toc -->
