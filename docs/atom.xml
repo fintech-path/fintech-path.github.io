@@ -6,7 +6,7 @@
   <link href="http://fintech-path.github.io/atom.xml" rel="self"/>
   
   <link href="http://fintech-path.github.io/"/>
-  <updated>2023-04-26T01:43:40.993Z</updated>
+  <updated>2023-06-30T07:27:32.309Z</updated>
   <id>http://fintech-path.github.io/</id>
   
   <author>
@@ -17,19 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>欢迎</title>
-    <link href="http://fintech-path.github.io/2023/04/26/welcome/"/>
-    <id>http://fintech-path.github.io/2023/04/26/welcome/</id>
-    <published>2023-04-26T01:43:00.000Z</published>
-    <updated>2023-04-26T01:43:40.993Z</updated>
+    <title>关于我们</title>
+    <link href="http://fintech-path.github.io/2023/06/30/welcome/"/>
+    <id>http://fintech-path.github.io/2023/06/30/welcome/</id>
+    <published>2023-06-30T07:27:00.000Z</published>
+    <updated>2023-06-30T07:27:32.309Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是一个欢迎页"><a href="#这是一个欢迎页" class="headerlink" title="这是一个欢迎页"></a>这是一个欢迎页</h2><p>欢迎访问</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="关于我们"><a href="#关于我们" class="headerlink" title="关于我们"></a>关于我们</h1><p>我们是一群对信息数字化技术有兴趣，有热情的金融领域的从业人员，创建这个网站，是想把在工作，学习之中的实践，想法，感悟做一个的记录，也期待能够做到积累，甚至帮助他人。</p><p>这个网站叫“捷径”，但其实“<strong>捷</strong>” 字仅仅是一个关于我们来自何方的暗示，并非对网站内容的自傲和宣传。恰恰相反，对于技术的演进，数字化的探索，通常没有捷径，不论是系统研发，架构设计，云原生平台，安全技术，每一个领域的落地都往往伴随着失败，试错，妥协，改进，正是在这些略显枯燥，却蕴含挑战的循环中，诞生出服务于企业和客户的数字化解决方案，提高效率，实现价值。而这个网站仅仅是记录我们在企业数字化发展“路径”中的所得，所思，所感，故名为“<strong>捷径</strong>”，期待在这里能和更多的同行交流，学习，成长。</p><p>关于网站内容，主要聚焦技术领域的方方面面，前端，后端，开发，设计，架构，安全，AI，数据，初期有可能略显混乱，但现实中最大的挑战却是能否长久的坚持。也期待未来这里能够成长为一个较高水平的技术博客。</p><p>最后，在对应github的空间，也有一些小伙伴的开源作品 <a href="https://github.com/fintech-path">https://github.com/fintech-path</a> ，有需要的朋友可以参考，也欢迎大家的参与或提出意见。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;这是一个欢迎页&quot;&gt;&lt;a href=&quot;#这是一个欢迎页&quot; class=&quot;headerlink&quot; title=&quot;这是一个欢迎页&quot;&gt;&lt;/a&gt;这是一个欢迎页&lt;/h2&gt;&lt;p&gt;欢迎访问&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;关于我们&quot;&gt;&lt;a href=&quot;#关于我们&quot; class=&quot;headerlink&quot; title=&quot;关于我们&quot;&gt;&lt;/a&gt;关于我们&lt;/h1&gt;&lt;p&gt;我们是一群对信息数字化技术有兴趣，有热情的金融领域的从业人员，创建这个网站，是想把在工作，学习之中的实践，想法，感悟做一个的</summary>
       
     
     
