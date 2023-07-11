@@ -63,9 +63,9 @@
     <category term="前端" scheme="http://fintech-path.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="react.js" scheme="http://fintech-path.github.io/tags/react-js/"/>
-    
     <category term="前端" scheme="http://fintech-path.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="react.js" scheme="http://fintech-path.github.io/tags/react-js/"/>
     
   </entry>
   
@@ -120,9 +120,9 @@
     <category term="前端" scheme="http://fintech-path.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="http://fintech-path.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="nodejs" scheme="http://fintech-path.github.io/tags/nodejs/"/>
+    
+    <category term="前端" scheme="http://fintech-path.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
