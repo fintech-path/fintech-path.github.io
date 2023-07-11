@@ -3,7 +3,12 @@
 ## hexo
 
 - 本工程是基于 hexo 构建，具体使用方法请访问链接: <https://hexo.io/docs/>
-- 具体使用细节还在学习中。
+
+## github 工程配置
+
+- 在工程 settings > pages 设置中将 构建目录选为 docs 目录
+  
+![](./images/pages-settings.png)
 
 ## 安装
 
@@ -28,7 +33,7 @@ pnpm install
 pnpm run dev
 ```
 
-- 构建: 每次更新或添加了文章，需要重新构建 /docs 目录. **/docs 目录才是 github 上真正托管的 blog**
+- 构建: **注意，这是发布前必要步骤**。每次更新或添加了文章，如要发布的话需要重新构建 /docs 目录（静态文件 ） **docs 目录才是 github 上真正托管的 blog**
   
 ```bash
 pnpm run build
