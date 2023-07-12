@@ -14,7 +14,7 @@
 
 这是一个 node 工程，首先确保你已经安装了 [Node.js](https://nodejs.org/) 环境。
 
-- 初始化，只需要运行一次。
+- 初始化，只需要运行一次。在项目根目录下运行：
 
 ```bash
 # 全局安装 pnpm
@@ -33,7 +33,7 @@ pnpm install
 pnpm run dev
 ```
 
-- 构建: **注意，这是发布前必要步骤**。每次更新或添加了文章，如要发布的话需要重新构建 /docs 目录（静态文件 ） **docs 目录才是 github 上真正托管的 blog**
+- 构建: **注意，这是发布前必要步骤**。每次更新或添加了文章，如要发布的话需要重新构建 /docs 目录（静态文件）。 **docs 目录才是 github pages 上真正部署的 blog**
   
 ```bash
 pnpm run build
@@ -63,6 +63,9 @@ categories:
     - 前端
 ---
 ```
+
+- 如有图片，将其放到 source/img 目录下并在文章中引用。
+  例：```![](/img/somepath/someimg.png)```
 
 - 然后运行上面提到的“构建”和“发布”步骤
 - 打开 blog 网址查看结果。临时网址是：<https://fintech-path.github.io/>
