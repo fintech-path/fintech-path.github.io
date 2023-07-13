@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://fintech-path.github.io/2023/06/30/welcome/</loc>
-    
-    <lastmod>2023-07-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://fintech-path.github.io/2023/03/10/nodejs-brief/</loc>
     
-    <lastmod>2023-07-07</lastmod>
+    <lastmod>2023-07-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,7 @@
   <url>
     <loc>http://fintech-path.github.io/2023/03/16/react-hooks/</loc>
     
-    <lastmod>2023-07-07</lastmod>
+    <lastmod>2023-07-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,6 +21,15 @@
   
   <url>
     <loc>http://fintech-path.github.io/2023/03/16/fe-auto-testing/</loc>
+    
+    <lastmod>2023-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://fintech-path.github.io/2023/06/30/welcome/</loc>
     
     <lastmod>2023-07-07</lastmod>
     
@@ -40,36 +40,36 @@
 
   <url>
     <loc>http://fintech-path.github.io/</loc>
-    <lastmod>2023-07-11</lastmod>
+    <lastmod>2023-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>http://fintech-path.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://fintech-path.github.io/tags/nodejs/</loc>
-    <lastmod>2023-07-11</lastmod>
+    <lastmod>2023-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://fintech-path.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2023-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://fintech-path.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-07-11</lastmod>
+    <lastmod>2023-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://fintech-path.github.io/tags/react-js/</loc>
-    <lastmod>2023-07-11</lastmod>
+    <lastmod>2023-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -77,15 +77,15 @@
 
   
   <url>
-    <loc>http://fintech-path.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2023-07-11</lastmod>
+    <loc>http://fintech-path.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://fintech-path.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-07-11</lastmod>
+    <loc>http://fintech-path.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2023-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
