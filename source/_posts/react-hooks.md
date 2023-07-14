@@ -65,8 +65,6 @@ Reactjs是一个用于构建用户界面的JavaScript库，它提供了一种称
 
 - `useDebugValue`: 可以被自定义Hook开发者使用，在 React DevTools 中显示自定义hook标签。
 
-好的，我可以给你一些使用Hooks的示例代码，但是请注意，这些代码只是为了演示Hooks的用法，并不一定代表最佳实践。如果你想要更深入地学习Hooks，请参考React官方文档¹²或者其他可靠的资源。
-
 ## 以下是一些使用Hooks的示例代码
 
 ### `useState`
@@ -157,10 +155,6 @@ function Counter() {
   );
 }
 ```
-
-好的，我可以再给你一些useCallback和useContext的示例代码，但是请注意，这些代码只是为了演示Hooks的用法，并不一定代表最佳实践。如果你想要更深入地学习Hooks，请参考React官方文档¹²³或者其他可靠的资源。
-
-以下是一些useCallback和useContext的示例代码：
 
 ### `useCallback`
 
